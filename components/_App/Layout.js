@@ -20,7 +20,7 @@ const Layout = ({ children }) => {
                     name="viewport" 
                     content="width=device-width, initial-scale=1, shrink-to-fit=no" 
                 />
-                <title>Slater - Resume CV</title>
+                <title>Slater - Portfolio</title>
             </Head>
 
             {children}

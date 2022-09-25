@@ -15,7 +15,7 @@ const About = () => {
                         <div className="about-content">
                             <div className="section-title three">
                                 <span className="sub-title">ABOUT ME</span>
-                                <h2>I Am A Web Developer, Specializing In JavaScript, Node, React, SQL & NoSQL</h2>
+                                <h2>I Am A Web Developer, Specializing In JavaScript, Node, React & MongoDB</h2>
                                 <p>After two years as a software engineer for a small robotics company, I turned my sights towards the oceans. I spent the next three years captaining yachts through over a dozen countries, making it halfway around the world. Now back home, I'm returning to my software roots and focusing on web development. See my portfolio below for recent examples of my work.</p>
                             </div>
 

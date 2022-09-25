@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import Link from 'next/link';
 import AnchorLink from 'react-anchor-link-smooth-scroll';
+import ReactLogo from './s_logo.svg';
 
 class Navbar extends Component {
     state = {
@@ -58,7 +59,7 @@ class Navbar extends Component {
                     <div className="container">
                         <Link href="/">
                             <a className="navbar-brand logo">
-                                <img src="/images/logo-four.png" alt="logo" />
+                                <ReactLogo width="250" height="100"/>
                             </a>
                         </Link>
 
@@ -134,13 +135,25 @@ class Navbar extends Component {
                             <div className="aside-footer">
                                 <Link href="https://drive.google.com/uc?export=download&id=1y1vPBwbr_ZhMxQ0jly39bXekxj-Kefqg">
                                     <a className="common-btn three">
-                                        Download CV <i className='bx bxs-download'></i>
+                                        Download Resume <i className='bx bxs-download'></i>
                                     </a>
                                 </Link>
                                 <ul className="social">
-                                    <li><a href="https://www.facebook.com/slater.mcardle" target="_blank"><i className='bx bxl-facebook'></i></a></li>
-                                    <li><a href="#" target="_blank"><i className='bx bxl-linkedin'></i></a></li>
-                                    <li><a href="https://github.com/SlaterMcArdle" target="_blank"><i className='bx bxl-github'></i></a></li>
+                                    <li>
+                                        <a href="https://linkedin.com/slatermcardle" target="_blank">
+                                            <i className='bx bxl-linkedin'></i>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="https://github.com/SlaterMcArdle" target="_blank">
+                                            <i className='bx bxl-github'></i>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.upwork.com/freelancers/~01c17ac19358059d85" target="_blank">
+                                            <i className='bx bxl-upwork'></i>
+                                        </a>
+                                    </li>
                                 </ul>
                             </div>
                         </div>

@@ -13,29 +13,27 @@ const Projects = () => {
                 <div className="row">
                     <div className="col-sm-6 col-lg-7">
                         <div className="projects-item">
-                            <img src="/images/projects/project1.jpg" alt="Projects" />
+                            <img src="/images/projects/encanto-flowers.png" alt="Projects" />
                             <div className="inner">
-                                <div className="inner">
-                                    <h3>
-                                        <Link href="/work-details">
-                                            <a target="_blank">Furniture Website</a>
-                                        </Link>
-                                    </h3>
-                                    <span>Logo</span>
-                                </div>
+                                <h3>
+                                    <Link href="http://encanto-flowers.herokuapp.com/">
+                                        <a target="_blank">Encanto Flowers</a>
+                                    </Link>
+                                </h3>
+                                <span>Cross-stack Integration / Stripe Integration</span>
                             </div>
                         </div>
 
                         <div className="projects-item">
-                            <img src="/images/projects/project2.jpg" alt="Projects" />
+                            <img src="/images/projects/programeter.png" alt="Projects" />
                             <div className="inner">
                                 <div className="inner">
                                     <h3>
-                                        <Link href="/work-details">
-                                            <a target="_blank">Travel App Logo Design</a>
+                                        <Link href="https://glacial-garden-96019.herokuapp.com/login">
+                                            <a target="_blank">Programeter</a>
                                         </Link>
                                     </h3>
-                                    <span>App</span>
+                                    <span>SQL Database / Algorithms</span>
                                 </div>
                             </div>
                         </div>
@@ -43,40 +41,40 @@ const Projects = () => {
 
                     <div className="col-sm-6 col-lg-5">
                         <div className="projects-item two">
-                            <img src="/images/projects/project3.jpg" alt="Projects" />
+                            <img src="/images/projects/restroom_hunters.png" alt="Projects" />
                             <div className="inner">
                                 <div className="inner">
                                     <h3>
-                                        <Link href="/work-details">
-                                            <a target="_blank">ERP Design</a>
+                                        <Link href="https://therestroomhunters.github.io/public-restroom-search/">
+                                            <a target="_blank">Restroom Hunters</a>
                                         </Link>
                                     </h3>
-                                    <span>Design</span>
+                                    <span>Mapbox API Integration</span>
                                 </div>
                             </div>
                         </div>
 
                         <div className="projects-item two">
-                            <img src="/images/projects/project4.jpg" alt="Projects" />
+                            <img src="/images/projects/note_taker.png" alt="Projects" />
                             <div className="inner">
                                 <div className="inner">
                                     <h3>
                                         <Link href="/work-details">
-                                            <a target="_blank">Restaurant Design</a>
+                                            <a target="_blank">Note Taker</a>
                                         </Link>
                                     </h3>
-                                    <span>Restaurant</span>
+                                    <span>Full Development</span>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
 
-                <div className="text-center">
+                {/* <div className="text-center">
                     <Link href="/works">
                         <a className="common-btn three" target="_blank">Explore Projects</a>
                     </Link>
-                </div>
+                </div> */}
             </div>
         </div>
     )

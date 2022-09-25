@@ -8,7 +8,7 @@ import Skills from '../components/LandingPageThree/Skills';
 import Projects from '../components/LandingPageThree/Projects';
 import BlogPost from '../components/LandingPageThree/BlogPost';
 import Testimonials from '../components/LandingPageThree/Testimonials';
-import ContactForm from '../components/LandingPageThree/ContactForm';
+import Contact from '../components/LandingPageThree/Contact';
 import Footer from '../components/LandingPageThree/Footer';
 
 const Index3 = () => {
@@ -37,7 +37,7 @@ const Index3 = () => {
 
                         <Testimonials /> */}
 
-                        <ContactForm />
+                        <Contact />
 
                         {/* <Footer /> */}
                         
