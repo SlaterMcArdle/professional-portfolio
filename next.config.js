@@ -1,17 +1,17 @@
 const path = require('path')
 
-//     /**
-//    * @type {import('next').NextConfig}
-//    */
-//  const nextConfig   = {
-//     images: {
-//       loader: 'akamai',
-//       path: '',
-//     },
-//     assetPrefix: './',
-//   };
+    /**
+   * @type {import('next').NextConfig}
+   */
+ const nextConfig   = {
+    images: {
+      loader: 'akamai',
+      path: '',
+    },
+    assetPrefix: './',
+  };
   
-//   export default   nextConfig;
+  export default   nextConfig;
   
 module.exports = {
     sassOptions: {
