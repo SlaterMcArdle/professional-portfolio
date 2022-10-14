@@ -9,8 +9,6 @@ import "swiper/css/bundle";
 import '../public/css/style.css'
 import '../public/css/responsive.css'
 
-<link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'></link>
-
 // For RTL comment out the below CSS
 // import '../public/css/rtl.css'
 
