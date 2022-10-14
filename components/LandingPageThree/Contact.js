@@ -25,7 +25,7 @@ const Contact = () => {
                                     </li>
                                     <li>
                                         <span>Website:</span>
-                                        <a href="#" target="_blank">www.reton.com</a>
+                                        <a href="#" target="_blank">slatermcardle.com</a>
                                     </li>
                                 </ul>
                             </div>

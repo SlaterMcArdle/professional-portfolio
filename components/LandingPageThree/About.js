@@ -16,10 +16,10 @@ const About = () => {
                             <div className="section-title three">
                                 <span className="sub-title">ABOUT ME</span>
                                 <h2>I Am A Web Developer, Specializing In JavaScript, Node, React & MongoDB</h2>
-                                <p>After two years as a software engineer for a small robotics company, I turned my sights towards the oceans. I spent the next three years captaining yachts through over a dozen countries, making it halfway around the world. Now back home, I'm returning to my software roots and focusing on web development. See my portfolio below for recent examples of my work.</p>
+                                <p>After two years as a software engineer for a custom automation company, I turned my sights towards the oceans. I spent the next three years captaining yachts through over a dozen countries, making it halfway around the world. Now back home, I'm returning to my software roots and focusing on web development. See my portfolio below for recent examples of my work.</p>
                             </div>
 
-                            <div className="row">
+                            {/* <div className="row">
                                 <div className="col-lg-5">
                                     <div className="left">
                                         <ul>
@@ -53,7 +53,7 @@ const About = () => {
                                         </ul>
                                     </div>
                                 </div>
-                            </div>
+                            </div> */}
                         </div>
                     </div>
                 </div>
