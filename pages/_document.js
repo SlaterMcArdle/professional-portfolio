@@ -5,7 +5,7 @@ class MyDocument extends Document {
         return (
             <Html lang="zxx">
                 <Head>
-                    <link rel="icon" type="image/png" href="/images/s_logo.png"></link>
+                    <link rel="icon" type="image/png" href="./images/s_logo.png"></link>
                     <link
                         href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap"
                         rel="stylesheet"
