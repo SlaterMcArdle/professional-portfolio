@@ -13,7 +13,7 @@ const Projects = () => {
                 <div className="row">
                     <div className="col-xs-12 col-lg-6">
                         <div className="projects-item">
-                            <img src="/images/projects/encanto_flowers_on_devices.png" alt="Projects" />
+                            <img src="./images/projects/encanto_flowers_on_devices.png" alt="Projects" />
                             <div className="inner">
                                 <h3>
                                     <Link href="http://encanto-flowers.herokuapp.com/">
@@ -31,7 +31,7 @@ const Projects = () => {
                         </div>
 
                         <div className="projects-item">
-                            <img src="/images/projects/programeter_on_devices.png" alt="Projects" />
+                            <img src="./images/projects/programeter_on_devices.png" alt="Projects" />
                             <div className="inner">
                                 <div className="inner">
                                     <h3>
@@ -53,7 +53,7 @@ const Projects = () => {
 
                     <div className="col-xs-12 col-lg-6">
                         <div className="projects-item two">
-                            <img src="/images/projects/restroom_hunters_on_devices.png" alt="Projects" />
+                            <img src="./images/projects/restroom_hunters_on_devices.png" alt="Projects" />
                             <div className="inner">
                                 <div className="inner">
                                     <h3>
@@ -73,7 +73,7 @@ const Projects = () => {
                         </div>
 
                         <div className="projects-item two">
-                            <img src="/images/projects/note_taker_on_devices.png" alt="Projects" />
+                            <img src="./images/projects/note_taker_on_devices.png" alt="Projects" />
                             <div className="inner">
                                 <div className="inner">
                                     <h3>
