@@ -1,17 +1,4 @@
 const path = require('path')
-
-    /**
-   * @type {import('next').NextConfig}
-   */
- const nextConfig   = {
-    images: {
-      loader: 'akamai',
-      path: '',
-    },
-    assetPrefix: './',
-  };
-  
-  export default   nextConfig;
   
 module.exports = {
     sassOptions: {
@@ -19,6 +6,11 @@ module.exports = {
     },
     optimizeFonts: false,
     distDir: 'build',
+    images: {
+        loader: 'akamai',
+        path: '',
+    },
+    assetPrefix: '/',
     webpack(config) {
         config.module.rules.push({
             test: /\.svg$/,
