@@ -1,5 +1,18 @@
 const path = require('path')
 
+    /**
+   * @type {import('next').NextConfig}
+   */
+ const nextConfig   = {
+    images: {
+      loader: 'akamai',
+      path: '',
+    },
+    assetPrefix: './',
+  };
+  
+  export default   nextConfig;
+  
 module.exports = {
     sassOptions: {
         includePaths: [path.join(__dirname, 'styles')],
