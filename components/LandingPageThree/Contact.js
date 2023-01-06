@@ -33,7 +33,7 @@ const Contact = () => {
                             <div className="bottom">
                                 <ul>
                                     <li>
-                                        <a href="https://linkedin.com/slatermcardle" target="_blank">
+                                        <a href="https://linkedin.com/in/joseph-s-mcardle" target="_blank">
                                             <i className='bx bxl-linkedin'></i>
                                         </a>
                                     </li>

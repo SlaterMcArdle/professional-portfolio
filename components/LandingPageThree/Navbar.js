@@ -140,7 +140,7 @@ class Navbar extends Component {
                                 </Link>
                                 <ul className="social">
                                     <li>
-                                        <a href="https://linkedin.com/slatermcardle" target="_blank">
+                                        <a href="https://linkedin.com/in/joseph-s-mcardle" target="_blank">
                                             <i className='bx bxl-linkedin'></i>
                                         </a>
                                     </li>
