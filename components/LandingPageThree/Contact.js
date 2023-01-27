@@ -17,7 +17,7 @@ const Contact = () => {
                                 <ul>
                                     <li>
                                         <span>Phone:</span>
-                                        <a href="tel:+14422667320">+1 (442)-266-73206</a>
+                                        <a href="tel:+14422667320">+1 (442)-266-7320</a>
                                     </li>
                                     <li>
                                         <span>Email:</span>
