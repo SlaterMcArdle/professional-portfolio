@@ -9,7 +9,7 @@ const MainBanner = () => {
                     <div className="container">
                         <div className="banner-content">
                             <h1><span>Slater</span> McArdle</h1>
-                            <p>Hello I am a <span>Full Stack Web Developer</span> from San Diego. I have turned my skills back to software development after spending three years and 20,000 ocean miles as an international yacht skipper.</p>
+                            <p>Hello I am a <span>Web Developer</span> from San Diego. Combining my robotics engineering experience with my training in full stack web development, I create robust, intuitive user experiences.</p>
 
                             <div className="banner-btn-area">
                                 <Link href="#contact">
