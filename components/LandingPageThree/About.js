@@ -15,7 +15,7 @@ const About = () => {
                         <div className="about-content">
                             <div className="section-title three">
                                 <span className="sub-title">ABOUT ME</span>
-                                <h2>I Am A Web Developer, Specializing In JavaScript, Node, React & MongoDB</h2>
+                                <h2>I Am A Web Developer, Specializing In React and Node</h2>
                                 <p>After two years as a software developer for a custom automation company, I turned my sights towards the oceans. I spent the next three years skippering yachts through over a dozen countries, making it halfway around the world. Now back home, I'm offering mysoftware expertise, focusing on web development. I recently completed the Full Stack Web Development Boot Camp through UC San Diego. Now I'm seeking entry level opportunities. See my portfolio below for recent examples of my work.</p>
                             </div>
                         </div>
